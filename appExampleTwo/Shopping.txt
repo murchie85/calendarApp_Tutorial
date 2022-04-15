@@ -1,0 +1,9 @@
+Fish,Meat
+Steak,Meat
+Grapes,Fruit
+Carrots,Vegetable
+Banana,Fruit
+Broccoli,Vegetable
+Apples,Fruit
+Ham,Meat
+Leeks,Vegetable
